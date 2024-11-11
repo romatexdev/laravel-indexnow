@@ -11,7 +11,7 @@ class SearchEngine
      */
     private static $drivers = [
         'indexnow' => 'api.indexnow.org',
-        'microsoft_bing' => 'www.bing.com',
+        'microsoft_bing' => 'yandex.com',
         'naver' => 'searchadvisor.naver.com',
         'seznam' => 'search.seznam.cz',
         'yandex' => 'yandex.com',
