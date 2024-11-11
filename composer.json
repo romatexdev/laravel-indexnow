@@ -1,8 +1,8 @@
 {
-    "name": "ymigval/laravel-indexnow",
+    "name": "romatexdev/laravel-indexnow",
     "type": "library",
     "description": "Laravel Service Library for notifying search engines about the latest content changes on their URLs using IndexNow.",
-    "homepage": "https://github.com/ymigval/laravel-indexnow",
+    "homepage": "https://github.com/romatexdev/laravel-indexnow",
     "keywords": [
         "indexnow", 
         "search engine", 
